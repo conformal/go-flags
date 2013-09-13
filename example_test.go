@@ -3,7 +3,7 @@ package flags_test
 
 import (
 	"fmt"
-	"github.com/jessevdk/go-flags"
+	"github.com/conformal/go-flags"
 	"os"
 	"os/exec"
 	"strings"
